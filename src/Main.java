@@ -5,6 +5,6 @@ public class Main {
         Point p = new Point();
         p.setX(30);
         p.setY(50);
-        //dd
+        //dddd
     }
 }
